@@ -4,5 +4,6 @@ ROOT_PATH=$(dirname $BASH_SOURCE);
 
 alias typora="open -a typora";
 alias typo="open -a typora";
+alias typo-install-theme="${ROOT_PATH}/install-theme.sh";
 
 unset ROOT_PATH;
