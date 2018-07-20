@@ -6,6 +6,7 @@
 
 ## commands:
 ```shell
-alias typora="open -a typora"
-alias typo="open -a typora"
+## markdown editor:
+alias mde="open -a typora";
+alias mde-install-theme="${ROOT_PATH}/install-theme.sh";
 ```
